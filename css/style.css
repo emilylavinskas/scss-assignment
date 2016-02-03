@@ -1,1 +1,21 @@
-@import url(https://fonts.googleapis.com/css?family=Pinyon+Script);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+  padding-top: 3.5em;
+}
+
+.title {
+  font-family: Lato, sans-serif;
+  color: #579339;
+}
+
+.btn1, .btn2, .btn3, .btn4 {
+  color: #000000;
+  text-decoration: none;
+  padding: .5em 1em;
+  border-radius: 5px;
+  display: inline-block;
+  margin: .5em;
+  font-size: 5em;
+}
