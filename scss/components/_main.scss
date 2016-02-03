@@ -1,0 +1,20 @@
+html {
+    font-family: $helvetica;
+    text-align: center;
+    padding-top: 3.5em;
+}
+
+.title {
+    font-family: $lato;
+    color: $green;
+}
+
+.btn1, .btn2, .btn3, .btn4 {
+    color: $black;
+    text-decoration: none;
+    padding: .5em 1em;
+    border-radius: 5px;
+    display: inline-block;
+    margin: .5em;
+    font-size: 5em;
+}
